@@ -26,6 +26,14 @@ It demonstrates the full data analysis workflow: **data cleaning**, **explorator
 - Excel / Power BI (for visuals)  
 - GitHub (for documentation)
 
+## Dataset
+The dataset used is the **[UCI Online Retail dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)**,  
+which contains over 540,000 transactions from a UK-based online retailer between **December 2010 and December 2011**.
+
+- Source: UCI Machine Learning Repository  
+- Format: Excel file (`Online Retail.xlsx`)  
+- Key columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
+
 ## Project Files
 | File | Description |
 |------|--------------|
