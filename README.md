@@ -30,6 +30,5 @@ It demonstrates the full data analysis workflow: **data cleaning**, **explorator
 | File | Description |
 |------|--------------|
 | `01_data_cleaning.sql` | SQL scripts for cleaning raw data |
-| `02_eda.sql` | Exploratory analysis queries |
-| `03_business_insights.md` | Query results and business recommendations |
+| `02,3-EDA and Recommendation for system enhancement.sql` | Exploratory analysis queries |
 | `readme.md` | Summary report (this file) |
